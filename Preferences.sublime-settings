@@ -1,17 +1,52 @@
 {
- 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/itg.dark (SL).tmTheme",
+	"detect_slow_plugins": false,
 	"fade_fold_buttons": false,
-	"font-face": "Consolas",
+	"file_exclude_patterns":
+	[
+		"*.grd",
+		"*.psd",
+		"*.pdf",
+		"*.zip",
+		"*.xsn",
+		"*.xls*",
+		"*.rar",
+		"*.doc*",
+		"*.asl",
+		"*.db",
+		"*.vsd",
+		"*.ttf",
+		"*.otf",
+		"*ppt*",
+		"*.lnk",
+		"*.pub"
+	],
+	"folder_exclude_patterns":
+	[
+		"*music*",
+		"*fonts*"
+	],
+	"font_face": "Monaco",
+	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Browser Refresh",
+		"ColorPicker"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"itg_sidebar_tree_medium": true,
+	"itg_small_tabs": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"match_brackets": true,
+	"show_tab_close_buttons": false,
 	"tab_completion": true,
 	"tab_size": 4,
-	"theme": "Flatland Dark.sublime-theme"
+	"theme": "itg.flat.dark.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
