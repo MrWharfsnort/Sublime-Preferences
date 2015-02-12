@@ -20,7 +20,7 @@
   "rulers": [80],
  
   // The number of spaces a tab is considered equal to
-  "tab_size": 2,
+  "tab_size": 4,
  
   // Set to true to insert spaces when tab is pressed
   "translate_tabs_to_spaces": true,
